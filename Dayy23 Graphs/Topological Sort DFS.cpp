@@ -1,3 +1,6 @@
+# ONLY FOR DAG (DIRECTED ACYCLIC GRAPH)
+# u --> v ordering
+
 https://practice.geeksforgeeks.org/problems/topological-sort/1
 
 
